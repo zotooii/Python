@@ -1,0 +1,10 @@
+1.下载Django包
+https://www.djangoproject.com/download/
+
+2.解压下载好的压缩包：Django-1.6.tar.gz
+直接解压缩，我解压缩的目录是E:盘   D:\\Django-1.1
+输入命令：
+cmd ->D: ->cd Django-1.1
+python setup.py install
+
+安装完成
